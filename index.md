@@ -96,7 +96,7 @@
           <!-- The slideshow -->
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="https://github.com/DawidZet/myrep/blob/master/HTML_ex_2/images/cat.jpg" alt="cat">
+              <img src="HTML_ex_2/images/cat.jpg" alt="cat">
             </div>
             <div class="carousel-item">
               <img src="https://github.com/DawidZet/myrep/blob/master/HTML_ex_2/images/cupboard.jpg" alt="cupboard">

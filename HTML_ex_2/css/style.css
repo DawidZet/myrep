@@ -1,0 +1,43 @@
+.jumbotron {
+  min-height: 100px;
+}
+
+.carousel {
+  max-height: 350px;
+}
+
+.carousel-item {
+  background-size: cover;
+}
+
+.carousel-inner img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+
+caption {
+  padding: 10px;
+  caption-side: top;
+  text-align: center;
+  font: sans-serif black;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.list-group-header {
+  text-align: center;
+  font-weight: bold;
+  flex-grow: 1;
+}
+
+/* .break {
+  flex-basis: 100%;
+  height: 0;
+  width: 100%;
+} */

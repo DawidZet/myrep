@@ -96,13 +96,13 @@
           <!-- The slideshow -->
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="images/cat.jpg" alt="cat">
+              <img src="https://github.com/DawidZet/myrep/blob/master/HTML_ex_2/images/cat.jpg" alt="cat">
             </div>
             <div class="carousel-item">
-              <img src="images/cupboard.jpg" alt="cupboard">
+              <img src="https://github.com/DawidZet/myrep/blob/master/HTML_ex_2/images/cupboard.jpg" alt="cupboard">
             </div>
             <div class="carousel-item">
-              <img src="images/flower.jpg" alt="flower">
+              <img src="https://github.com/DawidZet/myrep/blob/master/HTML_ex_2/images/flower.jpg" alt="flower">
             </div>
           </div>
           <!-- Left and right controls -->

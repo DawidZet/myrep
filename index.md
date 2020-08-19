@@ -65,7 +65,7 @@
             </tr>
             <tr>
               <td>Bielsko-Biała</td>
-              <td>Orkana 1a</td>
+              <td>Mickiewicza 18c</td>
               <td>Marek Ostrowski</td>
             </tr>
             <tr>

@@ -4,3 +4,4 @@ modif. nr3
 add funny and interesting items
 commit for git fetch purpose
 adding in local repo before push
+line 7 before fetch
